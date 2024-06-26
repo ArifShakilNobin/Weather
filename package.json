@@ -112,15 +112,15 @@
     "lit": "$lit",
     "@polymer/polymer": "$@polymer/polymer",
     "react": "$react",
-    "@polymer/iron-iconset-svg": "$@polymer/iron-iconset-svg",
-    "lit-element": "$lit-element",
     "date-fns": "$date-fns",
-    "@polymer/paper-button": "$@polymer/paper-button",
     "proj4": "$proj4",
     "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
-    "lit-html": "$lit-html",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
     "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles",
+    "@polymer/iron-iconset-svg": "$@polymer/iron-iconset-svg",
+    "lit-element": "$lit-element",
+    "@polymer/paper-button": "$@polymer/paper-button",
+    "lit-html": "$lit-html",
     "@polymer/paper-icon-button": "$@polymer/paper-icon-button"
   }
 }
